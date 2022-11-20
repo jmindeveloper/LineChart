@@ -13,6 +13,7 @@
 		0EDBE0FC2928B88300AE9AB5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBE0FA2928B88300AE9AB5 /* Main.storyboard */; };
 		0EDBE0FE2928B88400AE9AB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBE0FD2928B88400AE9AB5 /* Assets.xcassets */; };
 		0EDBE1012928B88400AE9AB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EDBE0FF2928B88400AE9AB5 /* LaunchScreen.storyboard */; };
+		0EDBE1092928BB0700AE9AB5 /* LineChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDBE1082928BB0700AE9AB5 /* LineChartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0EDBE0FD2928B88400AE9AB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0EDBE1002928B88400AE9AB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0EDBE1022928B88400AE9AB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EDBE1082928BB0700AE9AB5 /* LineChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineChartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0EDBE0F42928B88300AE9AB5 /* AppDelegate.swift */,
 				0EDBE0F62928B88300AE9AB5 /* SceneDelegate.swift */,
 				0EDBE0F82928B88300AE9AB5 /* ViewController.swift */,
+				0EDBE1082928BB0700AE9AB5 /* LineChartView.swift */,
 				0EDBE0FA2928B88300AE9AB5 /* Main.storyboard */,
 				0EDBE0FD2928B88400AE9AB5 /* Assets.xcassets */,
 				0EDBE0FF2928B88400AE9AB5 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0EDBE0F92928B88300AE9AB5 /* ViewController.swift in Sources */,
 				0EDBE0F52928B88300AE9AB5 /* AppDelegate.swift in Sources */,
 				0EDBE0F72928B88300AE9AB5 /* SceneDelegate.swift in Sources */,
+				0EDBE1092928BB0700AE9AB5 /* LineChartView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
